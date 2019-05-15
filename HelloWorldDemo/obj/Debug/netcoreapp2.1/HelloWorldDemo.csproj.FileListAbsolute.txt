@@ -1,0 +1,11 @@
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.csprojAssemblyReference.cache
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.AssemblyInfoInputs.cache
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.AssemblyInfo.cs
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\bin\Debug\netcoreapp2.1\HelloWorldDemo.deps.json
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\bin\Debug\netcoreapp2.1\HelloWorldDemo.runtimeconfig.json
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\bin\Debug\netcoreapp2.1\HelloWorldDemo.runtimeconfig.dev.json
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\bin\Debug\netcoreapp2.1\HelloWorldDemo.dll
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\bin\Debug\netcoreapp2.1\HelloWorldDemo.pdb
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.dll
+C:\Users\a702852\OneDrive - Atos\Documents\GitHub\HelloWorld\HelloWorldDemo\obj\Debug\netcoreapp2.1\HelloWorldDemo.pdb
